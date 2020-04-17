@@ -15,15 +15,13 @@
   <section class="material-half-bg">
     <div class="cover"></div>
   </section>
-
   <section class="login-content">
     <div class="logo">
       <h1><?php echo "PPDB - UNIVERSITAS PELITA BANGSA"; ?></h1>
     </div>
-
     <div class="col-md-6">
       <div class="tile"><br>
-        <center><h3 class="login-head"><i class="fa fa-lg fa-fw fa-user"></i>Register</h3></center><br>
+        <center><h3 class="login-head"><i class="fa fa-lg fa-fw fa-user"></i>DAFTAR</h3></center><br>
         <div class="tile-body">
       <form class="login-form" method="post" action="<?php echo base_url('auth/aksi_tambah'); ?>">
         <div class="row">
